@@ -2,6 +2,11 @@
 # python opencv_object_tracking.py
 # python opencv_object_tracking.py --video dashcam_boston.mp4 --tracker csrt
 
+# REFERENCE:
+# https://www.learnopencv.com/object-tracking-using-opencv-cpp-python/
+# https://www.pyimagesearch.com/2018/07/30/opencv-object-tracking/
+
+
 # import the necessary packages
 from imutils.video import VideoStream
 from imutils.video import FPS
